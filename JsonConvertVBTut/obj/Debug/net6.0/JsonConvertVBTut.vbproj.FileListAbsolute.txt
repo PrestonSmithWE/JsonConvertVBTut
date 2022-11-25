@@ -1,0 +1,17 @@
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.vbproj.AssemblyReference.cache
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.AssemblyInfoInputs.cache
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.AssemblyInfo.vb
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.vbproj.CoreCompileInputs.cache
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/bin/Debug/net6.0/JsonConvertVBTut
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/bin/Debug/net6.0/JsonConvertVBTut.deps.json
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/bin/Debug/net6.0/JsonConvertVBTut.runtimeconfig.json
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/bin/Debug/net6.0/JsonConvertVBTut.dll
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/bin/Debug/net6.0/JsonConvertVBTut.pdb
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.vbproj.CopyComplete
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.dll
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/refint/JsonConvertVBTut.dll
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.pdb
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/JsonConvertVBTut.genruntimeconfig.cache
+/Users/prestonsmtih/RiderProjects/JsonConvertVBTut/JsonConvertVBTut/obj/Debug/net6.0/ref/JsonConvertVBTut.dll
